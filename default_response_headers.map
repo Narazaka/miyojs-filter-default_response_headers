@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "default_response_headers.js",
+  "sourceRoot": "",
+  "sources": [
+    "default_response_headers.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,+FAAA;AAAA,IAAA,WAAA;;AAEA,IAAO,0DAAP;AACC,EAAA,WAAA,GAAc,EAAd,CADD;CAFA;;AAAA,WAKW,CAAC,wBAAZ,GAAuC,SAAC,QAAD,EAAW,OAAX,EAAoB,EAApB,EAAwB,KAAxB,GAAA;AACtC,MAAA,gBAAA;AAAA;AAAA,OAAA,WAAA;sBAAA;AACC,IAAA,IAAC,CAAA,wBAAyB,CAAA,GAAA,CAA1B,GAAiC,KAAjC,CADD;AAAA,GAAA;SAEA,SAHsC;AAAA,CALvC,CAAA;;AAUA,IAAG,kDAAA,IAAY,wBAAf;AACC,EAAA,MAAM,CAAC,OAAP,GAAiB,WAAjB,CADD;CAVA"
+}

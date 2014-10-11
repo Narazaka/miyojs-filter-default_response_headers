@@ -1,0 +1,20 @@
+{
+	"name": "miyojs-filter-default_response_headers",
+	"version": "0.0.1",
+	"description": "default_response_headers - filter for setting default_response_headers of Miyo",
+	"main": "default_response_headers.js",
+	"scripts": {
+		"test": "mocha"
+	},
+	"dependencies": {
+	},
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Narazaka/miyojs-filter-default_response_headers.git"
+	}
+}
