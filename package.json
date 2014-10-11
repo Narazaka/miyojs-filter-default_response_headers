@@ -1,6 +1,6 @@
 {
 	"name": "miyojs-filter-default_response_headers",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "default_response_headers - filter for setting default_response_headers of Miyo",
 	"main": "default_response_headers.js",
 	"scripts": {
