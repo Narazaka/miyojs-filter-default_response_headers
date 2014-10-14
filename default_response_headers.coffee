@@ -3,7 +3,7 @@
 unless MiyoFilters?
 	MiyoFilters = {}
 
-MiyoFilters.default_response_headers = (argument, request, id, stash) ->
+MiyoFilters.default_response_headers = type: 'through', filter: (argument, request, id, stash) ->
 	for key, value of argument.default_response_headers
 		@default_response_headers[key] = value
 	argument
