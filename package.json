@@ -1,12 +1,21 @@
 {
 	"name": "miyojs-filter-default_response_headers",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"description": "default_response_headers - filter for setting default_response_headers of Miyo",
+	"keywords": ["miyojs", "miyojs-filter"],
 	"main": "default_response_headers.js",
 	"scripts": {
 		"test": "mocha"
 	},
 	"dependencies": {
+	},
+	"devDependencies": {
+		"coffee-script": ">= 1.8.0",
+		"mocha": ">= 1.20.1",
+		"chai": ">= 1.9.2",
+		"sinon": ">= 1.10.3",
+		"istanbul": ">= 0.3.2",
+		"miyojs": ">= 1.0.3"
 	},
 	"author": {
 		"name": "narazaka",
